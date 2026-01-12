@@ -1,5 +1,9 @@
 /* Add CSS Styling */
 .first {
-    background-color: rgb(255, 255, 0);
+    background-color: #000000;
     color: #ffffff;
+}
+
+.second {
+    background-color: rgb(255, 255, 0);
 }
