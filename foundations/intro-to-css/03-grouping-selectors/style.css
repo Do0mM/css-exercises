@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.first {
+    background-color: rgb(255, 255, 0);
+    color: #ffffff;
+}
