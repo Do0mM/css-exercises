@@ -18,12 +18,12 @@ body {
 .content {
   background: #e3f4ff;
   padding-bottom: 16px;
-  border: 16px white;
+  
 }
 
 .button-container {
   background: #e3f4ff;
-  padding: 16px;
+  padding: 16px white;
   margin: auto;
 }
 
